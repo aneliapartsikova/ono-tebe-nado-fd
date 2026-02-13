@@ -51,11 +51,6 @@ body {
   max-width: 230px;
 }
 
-.menu-link_active {
-  text-decoration:none;
-  list-style: none;
-}
-
 .cover {
   background-image: url("../images/cover.jpg");
   position: relative;
