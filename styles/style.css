@@ -163,13 +163,16 @@ body {
   min-height: 596px;
 }
 
+.card-link {
+  text-decoration:none;
+}
+
 .card {
   display: flex;
   flex-direction:column;
   position: relative;
   height: 100%;
   width: 334px;
-  text-decoration:none;
   color: rgba(255, 255, 255, 1);
 }
 
