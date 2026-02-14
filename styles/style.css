@@ -20,8 +20,11 @@ body {
 }
 
 .header__links-list-item_no-bullit {
-  text-decoration:none;
   list-style: none;
+}
+
+.header_link_active{
+  text-decoration:none;
 }
 
 .header-logo-image {
@@ -291,6 +294,10 @@ body {
   align-items: center;
   list-style: none;
   font-size: 18px;
+}
+
+.footer_link_active{
+  text-decoration:none;
 }
 
 .socials {
