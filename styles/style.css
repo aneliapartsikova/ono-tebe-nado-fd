@@ -23,7 +23,7 @@ body {
   list-style: none;
 }
 
-.header_link_active{
+.header_link_active {
   text-decoration:none;
 }
 
@@ -296,7 +296,7 @@ body {
   font-size: 18px;
 }
 
-.footer_link_active{
+.footer_link_active {
   text-decoration:none;
 }
 
